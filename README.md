@@ -1,2 +1,2 @@
 # analiytics-project
-analytics project ini merupakan project untuk menganalisa data, membuat visualisasi data dan membangun model guna membantu dalam proses analisis
+analytics project merupakan project untuk menganalisa data, membuat visualisasi data dan membangun model guna membantu dalam proses analisis
